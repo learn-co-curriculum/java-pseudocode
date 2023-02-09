@@ -21,8 +21,7 @@ But what if we don't know where or how to start? Well the best way to do that is
 to take out a text editor and write down a goal and a sequence of tasks.
 
 ```text
-The goal we know is that the program will determine if an integer value is
-even or odd.
+The goal is that the program will determine if an integer value is even or odd.
 
 if the integer is divisible by 2
     print "This number is even!"
