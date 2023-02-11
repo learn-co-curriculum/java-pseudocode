@@ -30,7 +30,14 @@ else (this means the integer is not divisible by 2)
 ```
 
 The above is considered pseudocode. It is written in plain text that can be
-easily interpreted into code:
+easily interpreted into code.
+
+If it helps to have a visual, we could even turn this pseudocode into a
+flowchart before turning it into real Java code!
+
+![pseudocode-flowchart](https://curriculum-content.s3.amazonaws.com/java-mod-1/pseudocode/pseudocode-flowchart.png)
+
+Now let us consider the Java code:
 
 ```java
 
